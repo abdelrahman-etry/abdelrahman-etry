@@ -92,6 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdelrahman-etry/abdelrahman-etry/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/abdelrahman-etry/abdelrahman-etry/blob/output/github-contribution-grid-snake2.svg)
 
 ###
