@@ -91,7 +91,6 @@
 </div>
 
 ###
-
-![snake animation](https://github.com/abdelrahman-etry/abdelrahman-etry/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/abdelrahman-etry/abdelrahman-etry/blob/output/github-contribution-grid-snake.gif)
 
 ###
