@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-etry-49a9b4a1/) 
 <a href="https://abdelrahmanetry.info/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal Portofolio&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Personal Portofolio&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Personal Portofolio"  />
   </a>
 
 # 💻 Tech Stack:
